@@ -1,2 +1,3 @@
 # BDD_WSB
 Praca podyplomowa - Inżynieria wymagań w projektach informatycznych
+"SPECYFIKACJA WYMAGAŃ I “ŻYJĄCA DOKUMENTACJA” W PODEJŚCIU BDD NA PRZYKŁADZIE NARZĘDZIA SPIERAJĄCEGO INŻYNIERIĘ WYMAGAŃ"
